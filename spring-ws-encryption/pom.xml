@@ -21,7 +21,7 @@
     <java.version>1.8</java.version>
 
     <wss4j.version>2.1.11</wss4j.version>
-    <xmlsec.version>2.1.0</xmlsec.version>
+    <xmlsec.version>2.3.5</xmlsec.version>
     <maven-jaxb2-plugin.version>0.13.2</maven-jaxb2-plugin.version>
   </properties>
 
